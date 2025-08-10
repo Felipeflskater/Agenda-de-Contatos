@@ -14,8 +14,8 @@ Visualização de informações detalhadas
 A aplicação utiliza o banco de dados Access para armazenar as informações dos contatos.
 
 🛠️ Tecnologias
-**Visual Basic 6 (VB6)**
-**Microsoft Access**
+-**Visual Basic 6 (VB6)**
+-**Microsoft Access**
 
 🚀 Como Executar
 Certifique-se de ter o Visual Basic 6 instalado em seu sistema.
